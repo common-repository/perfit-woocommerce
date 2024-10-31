@@ -1,0 +1,68 @@
+# Loco Gettext template
+msgid ""
+msgstr ""
+"Project-Id-Version: woocommerce-perfit\n"
+"Report-Msgid-Bugs-To: Lucas Ruano\n"
+"POT-Creation-Date: 2020-03-13 19:39-0300\n"
+"PO-Revision-Date: 2020-04-28 11:07-0300\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Loco-Source-Locale: en\n"
+"X-Loco-Project-Id: 85887\n"
+"X-Loco-Api-Version: 1.0.24 20191119-1\n"
+"Last-Translator: \n"
+"Language: en_US\n"
+
+#: woocommerce-perfit/includes/class-wcp.php:154 loco:5e6c0665ed0cfa360d731561
+msgid ""
+"WooCommerce Perfit needs WooCommerce to run. Please, install and active "
+"WooCommerce plugin."
+msgstr ""
+"WooCommerce Perfit needs WooCommerce to run. Please, install and active "
+"WooCommerce plugin."
+
+#: woocommerce-perfit/includes/class-wcp.php:308 loco:5e6c0665ed0cfa360d731562
+msgid "Unathorized"
+msgstr "Unathorized"
+
+#: woocommerce-perfit/includes/class-wcp-settings-tab.php:37
+#: loco:5e6c0665ed0cfa360d731563
+msgid "Perfit"
+msgstr "Perfit"
+
+#: woocommerce-perfit/includes/admin/views/html-settings.php:2
+#: loco:5e6c0665ed0cfa360d731564
+msgid "Admin Settings Perfit Title"
+msgstr "Synchronize with Perfit"
+
+#: woocommerce-perfit/includes/admin/views/html-settings.php:5
+#: loco:5e6c0665ed0cfa360d731565
+msgid "Admin Settings Perfit Activated Description"
+msgstr "You are currently logged in"
+
+#: woocommerce-perfit/includes/admin/views/html-settings.php:7
+#: loco:5e6c0665ed0cfa360d731566
+msgid "Admin Settings Perfit Description"
+msgstr ""
+"Copy the API key from your account to connect to Perfit. If you do not know "
+"how to get it, visit the <a target=\"_blank\" href=\"https://docs.myperfit."
+"com/integraciones/como-obtener-mi-api-key\">help center</a>"
+
+#: woocommerce-perfit/includes/admin/views/html-settings.php:14
+#: loco:5e6c0665ed0cfa360d731567
+msgid "Admin Settings Perfit Api Key Field Label"
+msgstr "API Key"
+
+#: woocommerce-perfit/includes/admin/views/html-settings.php:14
+#: loco:5e6c0665ed0cfa360d731568
+msgid "Admin Settings Perfit Api Key Field Placeholder"
+msgstr "E.g. myaccount-apikey"
+
+#: woocommerce-perfit/includes/admin/views/html-settings.php:30
+#: loco:5e6c0665ed0cfa360d731569
+msgid "Admin Settings Perfit Button Logout"
+msgstr "Logout"
